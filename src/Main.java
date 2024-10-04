@@ -37,6 +37,7 @@ public class Main {
         System.out.println("Hola a clase de Programacion Orientada a Objetos ");
         ///cambios de mejora en el codigo
         System.out.println("Hola a clase de Programacion Orientada a Objetos ");
+        System.out.println("te quiero xD");
     }
 }
 
