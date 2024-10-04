@@ -32,9 +32,9 @@ public class Main {
         for (int j = n; j <= m; j += i) {
             System.out.println(j);
         }
-///cambios de mejora en el codigo
-    System.out.println("Hola a clase de Programacion Orientada a Objetos ");
         scanner.close();
+        ///cambios de mejora en el codigo
+        System.out.println("Hola a clase de Programacion Orientada a Objetos ");
     }
 }
 
