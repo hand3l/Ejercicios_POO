@@ -35,6 +35,8 @@ public class Main {
         scanner.close();
         //cambios de mejora en el codigo
         System.out.println("Hola a clase de Programacion Orientada a Objetos ");
+        ///cambios de mejora en el codigo
+        System.out.println("Hola a clase de Programacion Orientada a Objetos ");
     }
 }
 
