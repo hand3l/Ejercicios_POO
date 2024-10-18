@@ -1,5 +1,4 @@
 
-package org.example;
 import java.util.Scanner;
 
 public class Main {
@@ -38,6 +37,23 @@ public class Main {
         ///cambios de mejora en el codigo
         System.out.println("Hola a clase de Programacion Orientada a Objetos ");
         System.out.println("te quiero xD");
+
+        //CLASE3
+        //CREACION DE OBJETO
+        OPERACIONES operaciones = new OPERACIONES();
+        operaciones.setN1(20.0);
+        operaciones.setN2(2.0);
+
+        operaciones.imprimirDatos();
+
+        System.out.println("Sumatoria: " + operaciones.sumatoria());
+        operaciones.sumaeimpresion();
+
+        System.out.println("La raiz: ");
+        operaciones.raiz();
+
+        System.out.println("Resta: " + operaciones.resta());
+        operaciones.restaeimpresion();
     }
 }
 
